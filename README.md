@@ -21,7 +21,6 @@ I specialize in developing **robust** and **scalable** web and mobile applicatio
 ## 🚀 Featured Projects
 - Laravel web applications
 - Flutter mobile apps
-- Custom WordPress themes & plugins
 - PHP & MySQL projects
 
 (Find more details in the "Projects" section)
