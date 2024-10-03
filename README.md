@@ -30,4 +30,4 @@ I specialize in developing **robust** and **scalable** web and mobile applicatio
 - Android Studio for mobile apps
 
 ## 🤝 Let's Connect!
-- Portfolio: [abunowmankalim.com](https://www.abunowmankalim.com/)
+- Portfolio: [abunowmankalim.com](https://abunowmankalim.com/)
