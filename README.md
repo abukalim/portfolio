@@ -1,6 +1,6 @@
 # **Hi, I'm Abu Nowman Kalim!** 👋  
 
-### **3rd Year B.Sc. Computer Science Student | Software Engineer | PHP & Laravel Developer | Flutter Enthusiast**  
+### **3rd Year B.Sc. Computer Science Student | Software Developer | PHP & Laravel Developer | Flutter Enthusiast**  
 
 I specialize in developing **robust** and **scalable** web and mobile applications, focusing on delivering high-quality solutions.  
 
@@ -29,11 +29,13 @@ I specialize in developing **robust** and **scalable** web and mobile applicatio
 🔹 Laravel web applications  
 🔹 Flutter mobile apps  
 🔹 PHP & MySQL projects  
+
 ---
 
 ## **🌱 Currently Learning**  
-📌 Flutter App Development
-📌 Full Stack Web Development with Python, Django & React
+📌 **Flutter App Development**  
+📌 **Full Stack Web Development with Python, Django & React**  
+
 ---
 
 ## **🤝 Let's Connect!**  
