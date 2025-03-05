@@ -29,15 +29,11 @@ I specialize in developing **robust** and **scalable** web and mobile applicatio
 🔹 Laravel web applications  
 🔹 Flutter mobile apps  
 🔹 PHP & MySQL projects  
-
-(Explore more in the **"Projects"** section.)  
-
 ---
 
 ## **🌱 Currently Learning**  
-📌 Advanced Flutter development  
-📌 Android Studio for mobile apps  
-
+📌 Flutter App Development
+📌 Full Stack Web Development with Python, Django & React
 ---
 
 ## **🤝 Let's Connect!**  
